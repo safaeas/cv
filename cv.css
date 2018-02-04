@@ -1,0 +1,194 @@
+/* body */
+
+body{
+
+	background-color: gainsboro;
+	font-family: 'PT Serif', serif;
+	overflow-x: hidden;
+	margin-bottom: -2000px;
+}
+
+.center{
+	text-align: center;
+}
+
+.contact{
+
+	margin-left: 5px;
+
+	height: 500px;
+	position: relative;
+	bottom: 90px;
+	width: 300px;
+	border: 2px solid black;
+	padding: 10px 10px;
+	background-color: white;
+}
+
+.formation{
+
+	display: inline-block;
+	position: relative;
+	bottom: 500px;
+	left: 350px;
+    margin-right: 40px;
+    margin-left: 1px;
+    margin-top: 15px;
+    border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 800px;
+    background-color: white;
+    padding-bottom: 60px;
+
+}
+.formation h2{
+	position: relative;
+	text-align: center;
+}
+.expro{
+
+	display: inline-block;
+	position: relative;
+	border: 2px solid black;
+	width: 800px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 1px;
+	bottom: 500px;
+	left:350px;
+	margin-bottom: 15px;
+	margin-top: 25px;
+	background-color: white;
+
+}
+
+.expro h2{
+	text-align: center;
+	position: relative;
+	background-color: #152c71;
+	padding: 10px;
+	margin-left: -40px;
+	margin-right: -40px; 
+	border: 2px solid black;
+	color: white;
+	bottom: 50px;
+	top:-35px;
+}
+#image {
+	position: relative;
+	left: 60px;
+}
+
+.poste{
+	display: inline-block;
+	border: 2px solid black;
+	position: relative;
+	width: 800px;
+	left: 350px;
+	padding-right: 50px; 
+	padding-left: 50px;
+	margin-top: 30px;
+	margin-left: 1px;
+	background-color: white;
+}
+
+table, th, td{
+    border: 2px solid black;
+  width: 300px;
+  border-collapse: collapse;
+}
+
+th{
+	background-color: lightblue;
+}
+td{
+	text-align: center;
+	background-color: white;
+
+}
+.competences{
+
+	display: inline-block;
+	position: relative;
+	bottom: 1250px;
+	right:905px;
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+    margin-right: 20px;
+    height: 1295px;
+    background-color: white;
+}
+
+.menu a{
+	background-color: #152c71;
+	color: white;
+	border: 1px solid ;
+	padding: 10px 10px;
+}
+
+h4{
+	color: chocolate;
+	font-weight: bold;
+	font-style: oblique;
+}
+h5{
+	color:dodgerblue;
+}
+
+a:link{
+  text-decoration: none;
+
+}
+a:visited{
+  text-decoration: none;
+}
+a:hover{
+  color: chocolate;
+}
+.contact h1{
+	color:navy;
+	text-align: center;
+}
+.poste h1{
+	color: navy;
+}
+
+
+
+h3{
+	color: royalblue;
+	font-weight: bold;
+}
+
+.formation h2{
+
+	background-color: #152c71;
+	padding: 10px;
+	margin-left: -40px;
+	margin-right: -40px; 
+	border: 2px solid black;
+	color: white;
+	bottom: 50px;
+}
+.competences h2{
+	text-align: center;
+	position: relative;
+	background-color: #152c71;
+	padding: 10px;
+	margin-left: -5px;
+	margin-right: -5px; 
+	border: 2px solid black;
+	color: white;
+	bottom: 40px;
+
+}
+.contact img {
+	border: 2px solid black;
+	border-radius: 100%;
+}
+span{
+	font-weight: bold;
+}
